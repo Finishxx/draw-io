@@ -330,12 +330,6 @@
         <mxCell id="cPQVNctF9WRtec--1Qf_-90" value="Yellow" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-86" vertex="1">
           <mxGeometry y="118" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cPQVNctF9WRtec--1Qf_-91" value="&lt;div&gt;Maybe History passives&lt;/div&gt;&lt;div&gt;could be like&lt;/div&gt;&lt;div&gt;rule modificators&lt;/div&gt;&lt;div&gt;which would be accessible&lt;/div&gt;&lt;div&gt;everywhere?&lt;/div&gt;&lt;div&gt;Like you could start a game&lt;/div&gt;&lt;div&gt;with no movement or an history&lt;/div&gt;&lt;div&gt;card could do that&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Georgia;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1520" y="1810" width="370" height="191" as="geometry" />
-        </mxCell>
-        <mxCell id="cPQVNctF9WRtec--1Qf_-92" value="&lt;div&gt;Or just have them be processed in the bucket&lt;/div&gt;&lt;div&gt;like CharacterCards&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;fontFamily=Georgia;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1530" y="2001" width="370" height="191" as="geometry" />
-        </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-93" value="&lt;div&gt;(Visible) Changes&lt;/div&gt;&lt;div&gt;could be somehow&lt;/div&gt;&lt;div&gt;gathered during changes&lt;/div&gt;&lt;div&gt;to the GameModel&lt;br&gt;&lt;/div&gt;&lt;div&gt;by e.g. LoggingProxy&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="-827" y="1900" width="270" height="160" as="geometry" />
         </mxCell>
@@ -872,7 +866,7 @@
           <mxGeometry x="-3860" y="1479" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-242" value="&lt;div&gt;&amp;lt;&amp;lt;CaseClass&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;NoEffectTemplate&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-3390" y="1655" width="155" height="31" as="geometry" />
+          <mxGeometry x="-3540" y="1586" width="155" height="31" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-243" value="&amp;lt;&amp;lt;CaseClass&amp;gt;&amp;gt;&lt;br&gt;&lt;div&gt;StrengthModifier&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1910" y="1187" width="290" height="92" as="geometry" />
@@ -904,7 +898,7 @@
           <mxGeometry x="-2230" y="1980" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-252" value="&lt;div&gt;&amp;lt;&amp;lt;CaseClass&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LeaderEffectTemplate&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-3220" y="1655" width="190" height="116" as="geometry" />
+          <mxGeometry x="-3370" y="1586" width="190" height="116" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-253" value="+ color: CardColor" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-252" vertex="1">
           <mxGeometry y="38" width="190" height="26" as="geometry" />
@@ -927,7 +921,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-258" value="&lt;div&gt;&amp;lt;&amp;lt;CaseClass&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;ShiftEffectTemplate" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-3010" y="1655" width="200" height="90" as="geometry" />
+          <mxGeometry x="-3160" y="1586" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-259" value="+ colorToShift: CardColor" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-258" vertex="1">
           <mxGeometry y="38" width="200" height="26" as="geometry" />
