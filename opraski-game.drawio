@@ -676,6 +676,9 @@
             <mxPoint x="-2150" y="1450" as="sourcePoint" />
             <mxPoint x="-1990" y="1450" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="-1935" y="1240" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-186" value="NoEffect" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -908,9 +911,6 @@
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-248" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1950" y="1560" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cPQVNctF9WRtec--1Qf_-249" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2010" y="1630" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-250" value="&amp;nbsp;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2110" y="1680" width="40" height="40" as="geometry" />
