@@ -1082,7 +1082,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_-aO_cQLmY2EogUjA6UF-27" value="&lt;div&gt;&amp;lt;&amp;lt;CaseClass&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;AdjustAllCardsStrengthByColor" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="_-aO_cQLmY2EogUjA6UF-27" value="&lt;div&gt;&amp;lt;&amp;lt;CaseClass&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;ModifyAllCardsStrengthByColor" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-3750" y="1799" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_-aO_cQLmY2EogUjA6UF-28" value="+ powerChange: Int - can be negative!" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="_-aO_cQLmY2EogUjA6UF-27" vertex="1">
