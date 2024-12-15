@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="jonIMrQ1350nRF5qzkGA">
-    <mxGraphModel dx="5923" dy="2829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5218" dy="2101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -632,7 +632,7 @@
         <mxCell id="cPQVNctF9WRtec--1Qf_-175" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="cPQVNctF9WRtec--1Qf_-174" source="cPQVNctF9WRtec--1Qf_-176" target="cPQVNctF9WRtec--1Qf_-178" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cPQVNctF9WRtec--1Qf_-176" value="&lt;div&gt;call C&#39;s initialize() =&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;E call E&#39;s initilaize()&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="cPQVNctF9WRtec--1Qf_-174" vertex="1">
+        <mxCell id="cPQVNctF9WRtec--1Qf_-176" value="&lt;div&gt;call C&#39;s initialize() =&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;E call E&#39;s initilaize()&lt;/div&gt;&lt;div&gt;then E&#39;s update()&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="cPQVNctF9WRtec--1Qf_-174" vertex="1">
           <mxGeometry x="490" y="110" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-177" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="cPQVNctF9WRtec--1Qf_-174" source="cPQVNctF9WRtec--1Qf_-178" target="cPQVNctF9WRtec--1Qf_-179" edge="1">
