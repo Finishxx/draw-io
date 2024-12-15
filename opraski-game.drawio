@@ -693,19 +693,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-190" value="LeaderPower" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-2670" y="1867" width="390" height="134" as="geometry" />
+          <mxGeometry x="-2670" y="1867" width="390" height="188" as="geometry" />
         </mxCell>
-        <mxCell id="cPQVNctF9WRtec--1Qf_-191" value="+ construct(CardId, LeaderPowerTemplate, HeroCard, Army)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-190" vertex="1">
-          <mxGeometry y="30" width="390" height="26" as="geometry" />
+        <mxCell id="cPQVNctF9WRtec--1Qf_-191" value="&lt;div&gt;+ construct(&lt;/div&gt;&lt;div&gt;&amp;nbsp; CardId,&lt;/div&gt;&lt;div&gt;&amp;nbsp; LeaderPowerTemplate,&lt;/div&gt;&lt;div&gt;&amp;nbsp; buffedCard: HeroCard,&lt;/div&gt;&lt;div&gt;&amp;nbsp; army: Army)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-190" vertex="1">
+          <mxGeometry y="30" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-192" value="+ initialize(): Unit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-190" vertex="1">
-          <mxGeometry y="56" width="390" height="26" as="geometry" />
+          <mxGeometry y="110" width="390" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-193" value="+ deinitialize(): Unit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-190" vertex="1">
-          <mxGeometry y="82" width="390" height="26" as="geometry" />
+          <mxGeometry y="136" width="390" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-194" value="+ update(): UpdateCommands" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-190" vertex="1">
-          <mxGeometry y="108" width="390" height="26" as="geometry" />
+          <mxGeometry y="162" width="390" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-195" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;dashed=1;" parent="1" source="cPQVNctF9WRtec--1Qf_-190" target="cPQVNctF9WRtec--1Qf_-157" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1155,7 +1155,7 @@
           <mxGeometry x="-2190" y="2280" width="180" height="98" as="geometry" />
         </mxCell>
         <mxCell id="4WUu8j-5yf9nH7c6oEK1-18" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;br&gt;&lt;div&gt;HeroCardsProvider&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1920" y="1876" width="230" height="90" as="geometry" />
+          <mxGeometry x="-1890" y="1950" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4WUu8j-5yf9nH7c6oEK1-19" value="+ getCardById(CardId): Card" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="4WUu8j-5yf9nH7c6oEK1-18">
           <mxGeometry y="38" width="230" height="26" as="geometry" />
