@@ -1285,13 +1285,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X2KeYh2Mon8Z6EOnONNq-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="X2KeYh2Mon8Z6EOnONNq-20" target="cPQVNctF9WRtec--1Qf_-230">
+        <mxCell id="X2KeYh2Mon8Z6EOnONNq-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="X2KeYh2Mon8Z6EOnONNq-20" target="cPQVNctF9WRtec--1Qf_-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X2KeYh2Mon8Z6EOnONNq-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="X2KeYh2Mon8Z6EOnONNq-20" target="cPQVNctF9WRtec--1Qf_-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X2KeYh2Mon8Z6EOnONNq-20" value="PowerFactory" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-3535" y="1416" width="205" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="X2KeYh2Mon8Z6EOnONNq-21" value="+ construct(NoPowerTemplate)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="X2KeYh2Mon8Z6EOnONNq-20">
+        <mxCell id="X2KeYh2Mon8Z6EOnONNq-21" value="+ createPower(PowerTemplate)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="X2KeYh2Mon8Z6EOnONNq-20">
           <mxGeometry y="38" width="205" height="26" as="geometry" />
         </mxCell>
       </root>
