@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="jonIMrQ1350nRF5qzkGA">
-    <mxGraphModel dx="5974" dy="2101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5420" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1234,13 +1234,16 @@
           <mxGeometry x="-1915" y="1693" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="X2KeYh2Mon8Z6EOnONNq-5" value="&lt;div&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;Army&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1950" y="901.84" width="260" height="90" as="geometry" />
+          <mxGeometry x="-1950" y="901.84" width="260" height="116" as="geometry" />
         </mxCell>
         <mxCell id="X2KeYh2Mon8Z6EOnONNq-16" value="+ cards: Seq[HeroCard]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="X2KeYh2Mon8Z6EOnONNq-5">
           <mxGeometry y="38" width="260" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="X2KeYh2Mon8Z6EOnONNq-17" value="+ " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="X2KeYh2Mon8Z6EOnONNq-5">
+        <mxCell id="X2KeYh2Mon8Z6EOnONNq-17" value="+play(card: HeroCardTemplate)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="X2KeYh2Mon8Z6EOnONNq-5">
           <mxGeometry y="64" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X2KeYh2Mon8Z6EOnONNq-25" value="+moved(card: HeroCardTemplate)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="X2KeYh2Mon8Z6EOnONNq-5">
+          <mxGeometry y="90" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="X2KeYh2Mon8Z6EOnONNq-9" value="0..N" style="endArrow=none;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;fontSize=12;curved=1;endFill=0;" edge="1" parent="1" source="X2KeYh2Mon8Z6EOnONNq-5" target="cPQVNctF9WRtec--1Qf_-142">
           <mxGeometry x="-0.8124" y="-50" relative="1" as="geometry">
