@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="jonIMrQ1350nRF5qzkGA">
-    <mxGraphModel dx="6515" dy="2563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5781" dy="1804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1336,17 +1336,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WSEFaAC18Gzz51c0HuQS-13" value="PlayersWithLeasCardsInHandDrawOne" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-2890" y="2280" width="260" height="134" as="geometry" />
+        <mxCell id="WSEFaAC18Gzz51c0HuQS-13" value="PlayersSatisfyingDrawPower" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-3010" y="2266" width="370" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="WSEFaAC18Gzz51c0HuQS-18" value="&lt;div&gt;+ construct(PlayersProvider, CardGiver)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="WSEFaAC18Gzz51c0HuQS-13">
-          <mxGeometry y="38" width="260" height="32" as="geometry" />
+        <mxCell id="WSEFaAC18Gzz51c0HuQS-18" value="&lt;div&gt;+ construct(condition: Seq[Player] =&amp;gt; Seq[PlayerId])&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="WSEFaAC18Gzz51c0HuQS-13">
+          <mxGeometry y="38" width="370" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WSEFaAC18Gzz51c0HuQS-19" value="- players: PlayersProvider" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="WSEFaAC18Gzz51c0HuQS-13">
-          <mxGeometry y="70" width="260" height="32" as="geometry" />
+          <mxGeometry y="70" width="370" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WSEFaAC18Gzz51c0HuQS-20" value="- cardGiver: CardGiver" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="WSEFaAC18Gzz51c0HuQS-13">
-          <mxGeometry y="102" width="260" height="32" as="geometry" />
+          <mxGeometry y="102" width="370" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WSEFaAC18Gzz51c0HuQS-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;dashed=1;" edge="1" parent="1" source="WSEFaAC18Gzz51c0HuQS-13" target="cPQVNctF9WRtec--1Qf_-157">
           <mxGeometry relative="1" as="geometry">
