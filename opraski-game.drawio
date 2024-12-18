@@ -1293,26 +1293,23 @@
         <mxCell id="X2KeYh2Mon8Z6EOnONNq-21" value="+ createPower(PowerTemplate): Power" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="X2KeYh2Mon8Z6EOnONNq-20" vertex="1">
           <mxGeometry y="38" width="255" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WSEFaAC18Gzz51c0HuQS-1" value="&lt;div&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HeroCardGiver&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-4010" y="300" width="350" height="92" as="geometry" />
+        <mxCell id="WSEFaAC18Gzz51c0HuQS-1" value="&lt;div&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;HeroCardGiver&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3960" y="300" width="250" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="WSEFaAC18Gzz51c0HuQS-2" value="+ giveCard(card: Card, player: PlayerId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="WSEFaAC18Gzz51c0HuQS-1">
-          <mxGeometry y="40" width="350" height="26" as="geometry" />
+        <mxCell id="WSEFaAC18Gzz51c0HuQS-3" value="+ giveNextFromDeck(player: PlayerId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="WSEFaAC18Gzz51c0HuQS-1">
+          <mxGeometry y="40" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WSEFaAC18Gzz51c0HuQS-3" value="+ giveNextCard(card: Card, player: PlayerId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="WSEFaAC18Gzz51c0HuQS-1">
-          <mxGeometry y="66" width="350" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="WSEFaAC18Gzz51c0HuQS-4" value="&lt;div&gt;HeroCardGiverImpl&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-4025" y="530" width="350" height="118" as="geometry" />
+        <mxCell id="WSEFaAC18Gzz51c0HuQS-4" value="&lt;div&gt;HeroCardGiverImpl&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-3982.5" y="530" width="295" height="118" as="geometry" />
         </mxCell>
         <mxCell id="WSEFaAC18Gzz51c0HuQS-5" value="+ construct(HeroCardDeck, PlayersProvider)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="WSEFaAC18Gzz51c0HuQS-4">
-          <mxGeometry y="40" width="350" height="26" as="geometry" />
+          <mxGeometry y="40" width="295" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WSEFaAC18Gzz51c0HuQS-6" value="- deck: HeroCardDeck" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="WSEFaAC18Gzz51c0HuQS-4">
-          <mxGeometry y="66" width="350" height="26" as="geometry" />
+          <mxGeometry y="66" width="295" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WSEFaAC18Gzz51c0HuQS-7" value="- players: PlayersProvider" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" vertex="1" parent="WSEFaAC18Gzz51c0HuQS-4">
-          <mxGeometry y="92" width="350" height="26" as="geometry" />
+          <mxGeometry y="92" width="295" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WSEFaAC18Gzz51c0HuQS-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="WSEFaAC18Gzz51c0HuQS-4" target="WSEFaAC18Gzz51c0HuQS-1">
           <mxGeometry relative="1" as="geometry">
