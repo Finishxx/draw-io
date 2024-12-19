@@ -700,7 +700,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-197" value="ShiftPower" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1900" y="1948" width="340" height="82" as="geometry" />
+          <mxGeometry x="-1880" y="1948" width="340" height="82" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-198" value="+ construct(ShiftPowerTemplate, CardId, PlayerId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-197" vertex="1">
           <mxGeometry y="30" width="340" height="26" as="geometry" />
