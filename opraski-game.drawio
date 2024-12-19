@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="jonIMrQ1350nRF5qzkGA">
-    <mxGraphModel dx="4930" dy="2051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5560" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -700,13 +700,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-197" value="ShiftPower" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1880" y="1948" width="340" height="82" as="geometry" />
+          <mxGeometry x="-1880" y="1964" width="340" height="56" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-198" value="+ construct(ShiftPowerTemplate, CardId, PlayerId)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-197" vertex="1">
           <mxGeometry y="30" width="340" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="cPQVNctF9WRtec--1Qf_-199" value="+ initialize(): Unit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=Georgia;" parent="cPQVNctF9WRtec--1Qf_-197" vertex="1">
-          <mxGeometry y="56" width="340" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cPQVNctF9WRtec--1Qf_-200" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=block;endFill=0;dashed=1;" parent="1" source="cPQVNctF9WRtec--1Qf_-197" target="SDojY2KBtA0U_9QAfa8z-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1208,7 +1205,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X2KeYh2Mon8Z6EOnONNq-3" value="&lt;div&gt;Maybe just calls on toArmies&lt;/div&gt;&lt;div&gt;as the could be responsible&lt;/div&gt;&lt;div&gt;for placing Cards?&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1490" y="1900" width="220" height="130" as="geometry" />
+          <mxGeometry x="-1480" y="1917" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="X2KeYh2Mon8Z6EOnONNq-5" value="&lt;div&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;Army&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Georgia;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1950" y="901.84" width="260" height="116" as="geometry" />
