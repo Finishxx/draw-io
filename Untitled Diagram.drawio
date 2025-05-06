@@ -115,20 +115,32 @@
         <mxCell id="hF1h-VePGLgBySQFq1k3-50" value="Proces transakce" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=77;height=32;" vertex="1" parent="1">
           <mxGeometry x="832" y="647" width="693" height="642" as="geometry" />
         </mxCell>
+        <mxCell id="hF1h-VePGLgBySQFq1k3-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="hF1h-VePGLgBySQFq1k3-52" target="hF1h-VePGLgBySQFq1k3-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-52" value="Internetové bankovnictví" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="868" y="1004" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1h-VePGLgBySQFq1k3-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="hF1h-VePGLgBySQFq1k3-53" target="hF1h-VePGLgBySQFq1k3-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-53" value="Mobilní bankovnictví" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="868" y="933" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hF1h-VePGLgBySQFq1k3-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="hF1h-VePGLgBySQFq1k3-54" target="hF1h-VePGLgBySQFq1k3-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-54" value="Bankomat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="868" y="861" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1h-VePGLgBySQFq1k3-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="hF1h-VePGLgBySQFq1k3-55" target="hF1h-VePGLgBySQFq1k3-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-55" value="Transakční systém" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="868" y="794" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-56" value="&lt;div&gt;Žádost&lt;/div&gt;&lt;div&gt;o transakci&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
-          <mxGeometry x="1057" y="866" width="100" height="100" as="geometry" />
+          <mxGeometry x="1080" y="881" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
