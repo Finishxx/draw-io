@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="25.0.3">
   <diagram name="Page-1" id="Srr-PB7GzdfBu_JWQ3YN">
-    <mxGraphModel dx="868" dy="1383" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1383" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,9 +52,6 @@
         <mxCell id="hF1h-VePGLgBySQFq1k3-18" value="Tok dat systémy" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="-14" y="-151" width="693" height="502" as="geometry" />
         </mxCell>
-        <mxCell id="hF1h-VePGLgBySQFq1k3-20" value="CRM ???" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="211" y="425" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" edge="1" parent="1" source="hF1h-VePGLgBySQFq1k3-21" target="hF1h-VePGLgBySQFq1k3-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -66,6 +63,9 @@
         </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-25" value="Identity management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="398" y="79" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1h-VePGLgBySQFq1k3-29" value="Proces transakce" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-14" y="377" width="693" height="502" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
