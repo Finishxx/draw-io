@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:137.0) Gecko/20100101 Firefox/137.0" version="25.0.3">
   <diagram name="Page-1" id="Srr-PB7GzdfBu_JWQ3YN">
-    <mxGraphModel dx="1456" dy="1128" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="1435" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,8 +112,8 @@
         <mxCell id="hF1h-VePGLgBySQFq1k3-49" value="Tok dat systémy" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=71;height=33;" vertex="1" parent="1">
           <mxGeometry x="796" y="-151" width="851" height="578" as="geometry" />
         </mxCell>
-        <mxCell id="hF1h-VePGLgBySQFq1k3-50" value="Proces transakce" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=77;height=32;" vertex="1" parent="1">
-          <mxGeometry x="832" y="647" width="1013" height="642" as="geometry" />
+        <mxCell id="hF1h-VePGLgBySQFq1k3-50" value="Proces transakce v2" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=77;height=32;" vertex="1" parent="1">
+          <mxGeometry x="832" y="647" width="914" height="501" as="geometry" />
         </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="hF1h-VePGLgBySQFq1k3-52" target="hF1h-VePGLgBySQFq1k3-56">
           <mxGeometry relative="1" as="geometry" />
@@ -150,9 +150,6 @@
         </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-61" value="&lt;div&gt;Anti-fraud&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Anti-money-laundering&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1205" y="901" width="141" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hF1h-VePGLgBySQFq1k3-62" value="Anti money-laundering system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1257" y="977" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-68" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="hF1h-VePGLgBySQFq1k3-64" target="hF1h-VePGLgBySQFq1k3-67">
           <mxGeometry relative="1" as="geometry" />
