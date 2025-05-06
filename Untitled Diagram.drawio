@@ -176,8 +176,11 @@
         <mxCell id="hF1h-VePGLgBySQFq1k3-66" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hF1h-VePGLgBySQFq1k3-72" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="hF1h-VePGLgBySQFq1k3-67" target="hF1h-VePGLgBySQFq1k3-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hF1h-VePGLgBySQFq1k3-67" value="Transakční systém" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="995" width="120" height="60" as="geometry" />
+          <mxGeometry x="1560" y="993" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
