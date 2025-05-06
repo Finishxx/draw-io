@@ -326,7 +326,7 @@
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-37" value="Typ_Transakce" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-125" y="67" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-44" value="Kód Kanálu (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-37">
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-44" value="Kód Kanálu" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-37">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-49" value="Název_Transakce" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-37">
@@ -335,10 +335,19 @@
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-45" value="Status_Transakce" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-139" y="201" width="160" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-46" value="Kód Kanálu (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-45">
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-46" value="Kód Kanálu" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-45">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-48" value="Název_Statusu" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-45">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-50" value="Klient" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-332" y="281" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-51" value="Kód Klienta" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-50">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-52" value="Název_Statusu" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-50">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
