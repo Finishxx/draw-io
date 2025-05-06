@@ -285,22 +285,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-18" value="Transakce (fact table)" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-380" y="-3" width="160" height="176" as="geometry" />
+          <mxGeometry x="-380" y="-3" width="178" height="176" as="geometry" />
         </mxCell>
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-20" value="Kód Kanálu (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-18">
-          <mxGeometry y="26" width="160" height="30" as="geometry" />
+          <mxGeometry y="26" width="178" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-22" value="Kód Statusu (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-18">
-          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-22" value="Kód Statusu Transakce (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-18">
+          <mxGeometry y="56" width="178" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-23" value="Kód Typu (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-18">
-          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-23" value="Kód Typu Transakce (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-18">
+          <mxGeometry y="86" width="178" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-19" value="Datum (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-18">
-          <mxGeometry y="116" width="160" height="30" as="geometry" />
+          <mxGeometry y="116" width="178" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-21" value="Kód Klienta (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-18">
-          <mxGeometry y="146" width="160" height="30" as="geometry" />
+          <mxGeometry y="146" width="178" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-24" value="Kalendář" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-113" y="-183" width="160" height="206" as="geometry" />
@@ -322,6 +322,24 @@
         </mxCell>
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-36" value="Týden_V_Měsíci" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
           <mxGeometry y="176" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-37" value="Typ_Transakce" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="67" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-44" value="Kód Kanálu (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-37">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-49" value="Název_Transakce" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-37">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-45" value="Status_Transakce" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-139" y="201" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-46" value="Kód Kanálu (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontStyle=5" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-45">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-48" value="Název_Statusu" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-45">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
