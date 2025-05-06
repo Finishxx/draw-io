@@ -100,6 +100,15 @@
         <mxCell id="hF1h-VePGLgBySQFq1k3-44" value="Anti-fraud system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="191.5" y="730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hF1h-VePGLgBySQFq1k3-45" value="Zapracování transakce" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="423" width="151" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1h-VePGLgBySQFq1k3-46" value="Transakční systém" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="523" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hF1h-VePGLgBySQFq1k3-48" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="592" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
