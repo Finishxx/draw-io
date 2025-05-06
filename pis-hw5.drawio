@@ -303,22 +303,25 @@
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-24" value="Kalendář" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-113" y="-183" width="160" height="176" as="geometry" />
+          <mxGeometry x="-113" y="-183" width="160" height="206" as="geometry" />
         </mxCell>
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-25" value="Datum" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-26" value="Kód Statusu (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-26" value="Rok" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-27" value="Kód Typu (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-27" value="Den" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-28" value="Datum (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-28" value="Den_V_Roce" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
           <mxGeometry y="116" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-29" value="Kód Klienta (FK)" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-29" value="Týden_V_Roce" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Np0r6Iq8mCtXIfCm7xB8-36" value="Týden_V_Měsíci" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-24">
+          <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
