@@ -274,9 +274,6 @@
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-2" value="&lt;div&gt;Data&lt;/div&gt;&lt;div&gt;Stage&lt;/div&gt;&lt;div&gt;Area&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-442" y="-12.5" width="83" height="367.5" as="geometry" />
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-6" value="&lt;div&gt;Reporting&lt;/div&gt;&lt;div&gt;Portal&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/finance/Graph_128x128.png" parent="1" vertex="1">
-          <mxGeometry x="10" y="134.5" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-127" y="134.5" width="74" height="121" as="geometry" />
         </mxCell>
@@ -342,6 +339,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-442" y="36.370000000000005" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pDZEcEHAVX1cfEA7XzoI-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="134.5" width="80" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-6" value="" style="image;html=1;image=img/lib/clip_art/finance/Graph_128x128.png" parent="pDZEcEHAVX1cfEA7XzoI-6" vertex="1">
+          <mxGeometry width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pDZEcEHAVX1cfEA7XzoI-5" value="Reporting Portal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pDZEcEHAVX1cfEA7XzoI-6">
+          <mxGeometry x="4.197096774193554" y="91" width="71.61290322580645" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
