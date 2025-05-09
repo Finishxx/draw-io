@@ -183,10 +183,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1sUZIcGj-PZE0xMs899g" name="Domain-final">
-    <mxGraphModel dx="782" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#E0E0E0" math="0" shadow="0">
+    <mxGraphModel dx="141" dy="562" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#E0E0E0" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Bg78i5Ha4cM5heAlWPXI-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="562" y="446" width="183" height="402" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg78i5Ha4cM5heAlWPXI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Bg78i5Ha4cM5heAlWPXI-7">
+          <mxGeometry width="183" height="401.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="IrDmCPm-0OVPrX7uoP9J-22" value="Přímé kanály" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=63;height=35;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="Bg78i5Ha4cM5heAlWPXI-7" vertex="1">
+          <mxGeometry width="183" height="402" as="geometry" />
+        </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-3" target="IrDmCPm-0OVPrX7uoP9J-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -255,9 +264,6 @@
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-21" value="Transakční systém" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1277" y="692.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-22" value="Přímé kanály" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=63;height=35;fillColor=#E0E0E0;" parent="1" vertex="1">
-          <mxGeometry x="562" y="446" width="183" height="403" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
