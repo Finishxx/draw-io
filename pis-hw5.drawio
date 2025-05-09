@@ -183,7 +183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1sUZIcGj-PZE0xMs899g" name="Domain-final">
-    <mxGraphModel dx="1018" dy="418" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#E0E0E0" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,17 +226,17 @@
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-18" target="IrDmCPm-0OVPrX7uoP9J-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-15" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="IrDmCPm-0OVPrX7uoP9J-14" vertex="1" connectable="0">
+        <mxCell id="IrDmCPm-0OVPrX7uoP9J-15" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="IrDmCPm-0OVPrX7uoP9J-14" vertex="1" connectable="0">
           <mxGeometry x="0.0212" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="8" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-18" target="IrDmCPm-0OVPrX7uoP9J-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-17" value="Ano" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="IrDmCPm-0OVPrX7uoP9J-16" vertex="1" connectable="0">
+        <mxCell id="IrDmCPm-0OVPrX7uoP9J-17" value="Ano" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=none;" parent="IrDmCPm-0OVPrX7uoP9J-16" vertex="1" connectable="0">
           <mxGeometry x="-0.1785" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-12" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-18" value="V rámci jedné banky?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -248,15 +248,15 @@
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-21" target="IrDmCPm-0OVPrX7uoP9J-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bg78i5Ha4cM5heAlWPXI-4" value="&lt;div&gt;Zapracování&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IrDmCPm-0OVPrX7uoP9J-20">
+        <mxCell id="Bg78i5Ha4cM5heAlWPXI-4" value="&lt;div&gt;Zapracování&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="IrDmCPm-0OVPrX7uoP9J-20">
           <mxGeometry x="0.0784" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="36" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-21" value="Transakční systém" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1277" y="692.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-22" value="Přímé kanály" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=63;height=35;" parent="1" vertex="1">
+        <mxCell id="IrDmCPm-0OVPrX7uoP9J-22" value="Přímé kanály" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=63;height=35;fillColor=#E0E0E0;" parent="1" vertex="1">
           <mxGeometry x="562" y="446" width="183" height="403" as="geometry" />
         </mxCell>
       </root>
