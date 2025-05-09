@@ -276,7 +276,7 @@
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="h0MbBJCDrWr-Iao-kwCE-2" target="h0MbBJCDrWr-Iao-kwCE-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-2" value="&lt;div&gt;Data&lt;/div&gt;&lt;div&gt;Stage&lt;/div&gt;&lt;div&gt;Area&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-2" value="&lt;div&gt;Data&lt;/div&gt;&lt;div&gt;Stage&lt;/div&gt;&lt;div&gt;Area&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-442" y="-89" width="83" height="548" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-6" value="&lt;div&gt;Reporting&lt;/div&gt;&lt;div&gt;Portal&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/finance/Graph_128x128.png" parent="1" vertex="1">
@@ -285,7 +285,7 @@
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-125" y="148.5" width="74" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="h0MbBJCDrWr-Iao-kwCE-8" vertex="1">
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h0MbBJCDrWr-Iao-kwCE-8" vertex="1">
           <mxGeometry width="71.61290322580645" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-7" value="&lt;div&gt;Mart&lt;/div&gt;&lt;div&gt;Controlling&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="h0MbBJCDrWr-Iao-kwCE-8" vertex="1">
@@ -294,7 +294,7 @@
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-10" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-306" y="126" width="122" height="166" as="geometry" />
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="h0MbBJCDrWr-Iao-kwCE-10" vertex="1">
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h0MbBJCDrWr-Iao-kwCE-10" vertex="1">
           <mxGeometry width="122" height="122" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-9" value="DWH Core" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="h0MbBJCDrWr-Iao-kwCE-10" vertex="1">
@@ -308,7 +308,7 @@
             <mxPoint x="183.1428571428571" y="32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="h0MbBJCDrWr-Iao-kwCE-12" vertex="1">
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h0MbBJCDrWr-Iao-kwCE-12" vertex="1">
           <mxGeometry width="59" height="64" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-11" value="Transakční systém" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="h0MbBJCDrWr-Iao-kwCE-12" vertex="1">
@@ -317,7 +317,7 @@
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-624" y="76" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="h0MbBJCDrWr-Iao-kwCE-13" vertex="1">
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h0MbBJCDrWr-Iao-kwCE-13" vertex="1">
           <mxGeometry width="59" height="64" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-15" value="CBS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="h0MbBJCDrWr-Iao-kwCE-13" vertex="1">
@@ -326,7 +326,7 @@
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-16" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-623" y="211" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="h0MbBJCDrWr-Iao-kwCE-16" vertex="1">
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h0MbBJCDrWr-Iao-kwCE-16" vertex="1">
           <mxGeometry width="59" height="64" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-18" value="Anti Money Laundering System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="h0MbBJCDrWr-Iao-kwCE-16" vertex="1">
@@ -335,7 +335,7 @@
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-19" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-623" y="339" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="h0MbBJCDrWr-Iao-kwCE-19" vertex="1">
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h0MbBJCDrWr-Iao-kwCE-19" vertex="1">
           <mxGeometry width="59" height="64" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-21" value="Anti-Fraud System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="h0MbBJCDrWr-Iao-kwCE-19" vertex="1">
