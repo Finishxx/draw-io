@@ -426,7 +426,7 @@
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-52" value="Název_Statusu" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="Np0r6Iq8mCtXIfCm7xB8-50" vertex="1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3TmoRv9RsZqvKPFa3vSK-3" value="Vek" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-50">
+        <mxCell id="3TmoRv9RsZqvKPFa3vSK-3" value="&lt;div&gt;Věk&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="Np0r6Iq8mCtXIfCm7xB8-50">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Np0r6Iq8mCtXIfCm7xB8-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.999;exitY=0.718;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.005;entryY=0.739;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Np0r6Iq8mCtXIfCm7xB8-19" target="Np0r6Iq8mCtXIfCm7xB8-44" edge="1">
