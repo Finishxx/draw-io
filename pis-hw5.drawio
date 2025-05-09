@@ -272,7 +272,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-2" value="&lt;div&gt;Data&lt;/div&gt;&lt;div&gt;Stage&lt;/div&gt;&lt;div&gt;Area&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-442" y="-89" width="83" height="548" as="geometry" />
+          <mxGeometry x="-442" y="-12.5" width="83" height="402" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-6" value="&lt;div&gt;Reporting&lt;/div&gt;&lt;div&gt;Portal&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/finance/Graph_128x128.png" parent="1" vertex="1">
           <mxGeometry x="12" y="148.5" width="80" height="80" as="geometry" />
@@ -296,12 +296,7 @@
           <mxGeometry x="31" y="136" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-12" value="" style="group;fillColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-625" y="-48" width="60" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="h0MbBJCDrWr-Iao-kwCE-12" source="h0MbBJCDrWr-Iao-kwCE-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="183.1428571428571" y="32" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-585" y="-12.5" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h0MbBJCDrWr-Iao-kwCE-12" vertex="1">
           <mxGeometry width="59" height="64" as="geometry" />
@@ -310,7 +305,7 @@
           <mxGeometry y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-13" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-624" y="76" width="60" height="110" as="geometry" />
+          <mxGeometry x="-585" y="133.5" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h0MbBJCDrWr-Iao-kwCE-13" vertex="1">
           <mxGeometry width="59" height="64" as="geometry" />
@@ -319,36 +314,22 @@
           <mxGeometry y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-16" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-623" y="211" width="60" height="110" as="geometry" />
+          <mxGeometry x="-585" y="279.5" width="60" height="110" as="geometry" />
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h0MbBJCDrWr-Iao-kwCE-16" vertex="1">
           <mxGeometry width="59" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-18" value="Anti Money Laundering System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="h0MbBJCDrWr-Iao-kwCE-16" vertex="1">
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-18" value="&lt;div&gt;CRM&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="h0MbBJCDrWr-Iao-kwCE-16" vertex="1">
           <mxGeometry y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-19" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-623" y="339" width="60" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-20" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="h0MbBJCDrWr-Iao-kwCE-19" vertex="1">
-          <mxGeometry width="59" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-21" value="Anti-Fraud System" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="h0MbBJCDrWr-Iao-kwCE-19" vertex="1">
-          <mxGeometry y="80" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=-0.007;entryY=0.359;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h0MbBJCDrWr-Iao-kwCE-14" target="h0MbBJCDrWr-Iao-kwCE-2" edge="1">
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=-0.01;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h0MbBJCDrWr-Iao-kwCE-14" target="h0MbBJCDrWr-Iao-kwCE-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-443.83333333333326" y="108.00000000000023" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h0MbBJCDrWr-Iao-kwCE-17" target="h0MbBJCDrWr-Iao-kwCE-2" edge="1">
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=-0.01;entryY=0.803;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h0MbBJCDrWr-Iao-kwCE-17" target="h0MbBJCDrWr-Iao-kwCE-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-443.83333333333326" y="243.00000000000023" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="h0MbBJCDrWr-Iao-kwCE-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="h0MbBJCDrWr-Iao-kwCE-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-442" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="h0MbBJCDrWr-Iao-kwCE-3" target="h0MbBJCDrWr-Iao-kwCE-4" edge="1">
@@ -356,6 +337,11 @@
         </mxCell>
         <mxCell id="h0MbBJCDrWr-Iao-kwCE-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="h0MbBJCDrWr-Iao-kwCE-4" target="h0MbBJCDrWr-Iao-kwCE-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0MbBJCDrWr-Iao-kwCE-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="h0MbBJCDrWr-Iao-kwCE-1" edge="1" target="h0MbBJCDrWr-Iao-kwCE-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-460" y="50" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
