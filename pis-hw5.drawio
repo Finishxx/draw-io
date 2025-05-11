@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="27.0.2" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.3.0" pages="4">
   <diagram name="Domain" id="Srr-PB7GzdfBu_JWQ3YN">
     <mxGraphModel dx="1637" dy="1270" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1sUZIcGj-PZE0xMs899g" name="Domain-final">
-    <mxGraphModel dx="703" dy="106" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="299" dy="590" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-22" value="Přímé kanály" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=63;height=35;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="Bg78i5Ha4cM5heAlWPXI-7" vertex="1">
           <mxGeometry width="183" height="479.306167400881" as="geometry" />
         </mxCell>
-        <mxCell id="O6GAmII9uq3Z-h5j8Jw2-1" value="Karetní systém" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7B7D3;fontColor=#333333;strokeColor=#666666;fontSize=13;" vertex="1" parent="Bg78i5Ha4cM5heAlWPXI-7">
+        <mxCell id="O6GAmII9uq3Z-h5j8Jw2-1" value="Karetní systém" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7B7D3;fontColor=#333333;strokeColor=#666666;fontSize=13;" parent="Bg78i5Ha4cM5heAlWPXI-7" vertex="1">
           <mxGeometry x="31.5" y="393.00444933920704" width="120" height="64.62555066079295" as="geometry" />
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-3" target="IrDmCPm-0OVPrX7uoP9J-11" edge="1">
@@ -229,41 +229,18 @@
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-11" value="&lt;div&gt;Žádost&lt;/div&gt;&lt;div&gt;o transakci&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="769" y="644" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-13" target="IrDmCPm-0OVPrX7uoP9J-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="IrDmCPm-0OVPrX7uoP9J-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1099" y="694" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-13" value="&lt;div&gt;Anti-fraud&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Anti-money-laundering&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="922" y="664" width="141" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-18" target="IrDmCPm-0OVPrX7uoP9J-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-15" value="Ne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;labelBackgroundColor=none;" parent="IrDmCPm-0OVPrX7uoP9J-14" vertex="1" connectable="0">
-          <mxGeometry x="0.0212" y="-1" relative="1" as="geometry">
-            <mxPoint x="7" y="-14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-18" target="IrDmCPm-0OVPrX7uoP9J-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-17" value="Ano" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;labelBackgroundColor=none;" parent="IrDmCPm-0OVPrX7uoP9J-16" vertex="1" connectable="0">
-          <mxGeometry x="-0.1785" y="-1" relative="1" as="geometry">
-            <mxPoint x="-12" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-18" value="V rámci jedné banky?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1099" y="636.75" width="116" height="114.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-19" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1277" y="543" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-21" target="IrDmCPm-0OVPrX7uoP9J-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-21" value="Transakční systém" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1277" y="756" width="120" height="60" as="geometry" />
+          <mxGeometry x="1098" y="664" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O6GAmII9uq3Z-h5j8Jw2-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O6GAmII9uq3Z-h5j8Jw2-1" target="IrDmCPm-0OVPrX7uoP9J-11">
+        <mxCell id="O6GAmII9uq3Z-h5j8Jw2-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="O6GAmII9uq3Z-h5j8Jw2-1" target="IrDmCPm-0OVPrX7uoP9J-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="696" y="763" as="sourcePoint" />
             <mxPoint x="779" y="686" as="targetPoint" />
