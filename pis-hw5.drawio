@@ -199,7 +199,7 @@
         <mxCell id="O6GAmII9uq3Z-h5j8Jw2-1" value="Karetní systém" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD6C0;fontColor=#333333;strokeColor=#666666;fontSize=13;" vertex="1" parent="Bg78i5Ha4cM5heAlWPXI-7">
           <mxGeometry x="31.5" y="393.00444933920704" width="120" height="64.62555066079295" as="geometry" />
         </mxCell>
-        <mxCell id="IrDmCPm-0OVPrX7uoP9J-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-3" target="IrDmCPm-0OVPrX7uoP9J-11" edge="1">
+        <mxCell id="IrDmCPm-0OVPrX7uoP9J-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-3" target="IrDmCPm-0OVPrX7uoP9J-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-3" value="Internetové bankovnictví" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAFAE4;fontSize=13;" parent="1" vertex="1">
@@ -227,13 +227,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-11" value="&lt;div&gt;Žádost&lt;/div&gt;&lt;div&gt;o transakci&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="769" y="580.5" width="100" height="100" as="geometry" />
+          <mxGeometry x="769" y="644" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-13" target="IrDmCPm-0OVPrX7uoP9J-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-13" value="&lt;div&gt;Anti-fraud&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Anti-money-laundering&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="922" y="600.5" width="141" height="60" as="geometry" />
+          <mxGeometry x="922" y="664" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-18" target="IrDmCPm-0OVPrX7uoP9J-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -252,16 +252,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-18" value="V rámci jedné banky?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1099" y="573.25" width="116" height="114.5" as="geometry" />
+          <mxGeometry x="1099" y="636.75" width="116" height="114.5" as="geometry" />
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-19" value="CBS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1277" y="479.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1277" y="543" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;" parent="1" source="IrDmCPm-0OVPrX7uoP9J-21" target="IrDmCPm-0OVPrX7uoP9J-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IrDmCPm-0OVPrX7uoP9J-21" value="Transakční systém" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1277" y="692.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1277" y="756" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O6GAmII9uq3Z-h5j8Jw2-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;startSize=8;endSize=8;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O6GAmII9uq3Z-h5j8Jw2-1" target="IrDmCPm-0OVPrX7uoP9J-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="696" y="763" as="sourcePoint" />
+            <mxPoint x="779" y="686" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
